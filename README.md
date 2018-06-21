@@ -53,6 +53,8 @@ By participating in this project, **you agree to the guidelines** laid out in `C
 
 For more details on the proposed directive, see the following excellent readings:
 
+- [Link Tax, 'Censorship Machines' Pass EU Committee Vote](https://www.tomshardware.com/news/link-tax-copyright-juri-vote,37330.html) by [Lucian Armasu](https://twitter.com/lucian_armasu)
+
 - [Julia Reda’s summary on the EU copyright evaluation report](https://juliareda.eu/copyright-evaluation-report/)
 
 - [Julia Reda’s article on censorship machines (Article 13)](https://juliareda.eu/eu-copyright-reform/censorship-machines/)
